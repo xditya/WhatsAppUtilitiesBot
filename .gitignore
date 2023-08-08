@@ -1,0 +1,4 @@
+node_modules
+WP_SESSION
+*-lock.json
+*_cache

@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp_WhatsAppUtilitiesBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "xditya",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  }
+}
